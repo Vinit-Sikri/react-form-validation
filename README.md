@@ -13,11 +13,11 @@ A fully functional **React-based form** with real-time validation, error handlin
 
 ## 📸 Screenshots
 
-### 🧾 Registration Form
-![Registration Form](./public/form-screenshot.png)
+![Screenshot 2025-06-07 145423](https://github.com/user-attachments/assets/80edf591-f109-49f5-b2df-bddb8a79b69d)
+![Screenshot 2025-06-07 145307](https://github.com/user-attachments/assets/268e80cc-d83c-4c95-a55b-ddf5ab8359f9)
 
-### ✅ Submitted Data
-![Submitted Data](./public/summary-screenshot.png)
+
+
 
 > ℹ️ Screenshots are saved in the `/public` folder so they are visible on GitHub and in deployments.
 
@@ -36,5 +36,3 @@ cd react-form-validation
 npm install
 npm start
 
-![Screenshot 2025-06-07 145423](https://github.com/user-attachments/assets/78ecb0fd-6877-4ca9-a7f6-7a6d41d4aa6f)
-![Screenshot 2025-06-07 145307](https://github.com/user-attachments/assets/13677c3e-2fb1-4d91-9324-ee08abba114a)
